@@ -2,7 +2,7 @@
 
 I build practical AI tools and run social media for small businesses, based in Wichita, KS.
 
-I've spent the last couple of years in high-volume sales and customer support (Sunrun, Fidelity Bank) and a year running social media for a local restaurant, where several of our videos reached millions of views. Now I turn the repetitive parts of that work into simple tools, using Claude, local LLMs (Ollama + Qwen), JavaScript and Python.
+I've spent the last couple of years in high-volume sales and customer support (Sunrun, Fidelity Bank) and a year running social media for a local restaurant, where my top 16 videos earned 7.8M+ views (three passed 1.5M). Now I turn the repetitive parts of that work into simple tools, using Claude, local LLMs (Ollama + Qwen), JavaScript and Python.
 
 **Open to freelance work:** small AI tools and automations, landing pages, and social media management for local businesses.
 📫 czinabu@gmail.com · [LinkedIn](https://www.linkedin.com/in/calebzinabu/)
