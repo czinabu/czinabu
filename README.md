@@ -1,6 +1,6 @@
 # Hi, I'm Caleb 👋
 
-I build AI-powered web apps and browser games, mostly with JavaScript/TypeScript, Claude and local LLMs. I come from sales, so most of my tools are built for sales and marketing teams and solve problems I had myself.
+I build AI-powered web apps and browser games, mostly with JavaScript/TypeScript, Claude and local LLMs. My tools come from my own work in sales: I build what I wished I had on the phones. Before that, I ran social media for a local restaurant, so I know the marketing side too.
 
 🌐 [calebzinabu.vercel.app](https://calebzinabu.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/calebzinabu/) · 📫 czinabu@gmail.com · Wichita, KS · Open to freelance work
 
